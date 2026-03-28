@@ -40,7 +40,7 @@ public class JenkinsTest {
 	}
 	@Test
 	void Test11(){
-		assertTrue(truegit );
+		assertTrue(true );
 	}
 
 
